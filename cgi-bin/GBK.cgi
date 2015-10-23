@@ -4,7 +4,7 @@
 $gbkhtml="/var/www/html/gbk.html";
 
 # 設定留言板的 URL 位址
-$gbkurl="http://HsiuHan.gothub.io/sweetmango/gbk.html";
+$gbkurl="http://luffy.ee.ncku.edu.tw/~tvxqhero9104/sweetmango/gbk.html";
 
 # 取得表單傳遞過來的內容
 read(STDIN, $temp, $ENV{'CONTENT_LENGTH'});
